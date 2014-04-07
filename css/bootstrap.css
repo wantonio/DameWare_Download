@@ -1,0 +1,53 @@
+.container_lg, .container_sm, .container_custom{
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container_lg {
+    width: 1024px;
+}
+.container_sm {
+    width: 895px;
+}
+.container_fluid {
+    width: 100%;
+}
+.col_1, .col_2, .col_3, .col_4, .col_5, .col_6, .col_7, .col_8, .col_9, .col_10, .col_11, .col_12 {
+    float: left;
+}
+.col_12 {
+    width: 100%;
+}
+.col_11 {
+    width: 91.66666667%;
+}
+.col_10 {
+    width: 83.33333333%;
+}
+.col_9 {
+    width: 75%;
+}
+.col_8 {
+    width: 66.66666667%;
+}
+.col_7 {
+    width: 58.33333333%;
+}
+.col_6 {
+    width: 50%;
+}
+.col_5 {
+    width: 41.66666667%;
+}
+.col_4 {
+    width: 33.33333333%;
+}
+.col_3 {
+    width: 25%;
+}
+.col_2 {
+    width: 16.66666667%;
+}
+.col_1 {
+    width: 8.33333333%;
+}
