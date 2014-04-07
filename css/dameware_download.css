@@ -17,6 +17,7 @@
 .container_custom{
 	width: 942px;
 	position: relative;
+	color:#fff;
 }
 
 /*--------------------------------------------top--------------------------------------------*/
@@ -44,6 +45,7 @@ h1 span{
 .d_top > ul{
 	text-align: center;
 	padding: 30px 0;
+	color:#000;
 }
 
 .d_top > ul li{
@@ -205,7 +207,10 @@ a.d_learn_more:after{
 	position: absolute;
 	left: 116px;
 }
-
+.d_product_short_desc
+{
+	color:#000;
+}
 .d_product_ss img{
 	border-radius: 6px;
 	display: block;
@@ -262,11 +267,13 @@ a.btn{
 	padding-bottom: 10px;
 	padding-right: 45px;
 	line-height: 15px;
+	color:#000;
 }
 
 .d_freetool p.d_filename{
 	margin: 0 10px 0;
 	line-height: 14px;
+	color:#000;
 }
 
 .d_freetool select{
